@@ -18,7 +18,7 @@ library# Ode to an awesome advisor We are trying to write this together as a gro
 -   seeing friends I haven't seen in a while
 -   Football season is about to begin
 -   I'm enjoying my classes
--   coffee in my mug.
+-   still some coffee in my mug.
 
 ## Crappies
 
