@@ -19,6 +19,7 @@ We are trying to write this together as a group
 - seeing all my friends
 - seeing friends I haven't seen in a while
 - Football season is about to begin
+- I'm enjoying my classes
 
 ## Crappies
 
@@ -33,3 +34,4 @@ We are trying to write this together as a group
 - the hot weather
 - Lots of work is starting to get added on
 - Struggling with classes already 
+- Work is slow to cut back my hours
